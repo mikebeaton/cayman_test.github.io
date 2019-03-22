@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## My ABC Page
 
-Hello
+Hello this is ABC
